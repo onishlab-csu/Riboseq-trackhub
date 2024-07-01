@@ -1,0 +1,12 @@
+  1 SRR10398489.fastq       CYSL01  01_N2_ribo_1    N2  riboseq 1
+  2 SRR10398490.fastq       CYSL02  02_N2_ribo_2    N2  riboseq 2
+  3 SRR10398491.fastq       CYSL03  03_N2_ribo_3    N2  riboseq 3
+  4 SRR10398492.fastq       CYSL04  04_meg34_ribo_1 meg34   riboseq 1
+  5 SRR10398493.fastq       CYSL05  05_meg34_ribo_2 meg34   riboseq 2
+  6 SRR10398494.fastq       CYSL06  06_meg34_ribo_3 meg34   riboseq 3
+  7 SRR10398495.fastq       CYSL07  07_N2_mRNA_1    N2  mRNA    1
+  8 SRR10398496.fastq       CYSL08  08_N2_mRNA_2    N2  mRNA    2
+  9 SRR10398497.fastq       CYSL09  09_N2_mRNA_3    N2  mRNA    3
+ 10 SRR10398498.fastq       CYSL10  10_meg34_mRNA_1 meg34   mRNA    1
+ 11 SRR10398499.fastq       CYSL11  11_meg34_mRNA_2 meg34   mRNA    2
+ 12 SRR10398500.fastq       CYSL12  12_meg34_mRNA_3 meg34   mRNA    3

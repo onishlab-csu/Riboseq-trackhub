@@ -1,0 +1,96 @@
+#### BAMs too large to store on github
+
+track CYSL01_bam
+visibility squish
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL01_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL01_sort.bam.bai
+html http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/Riboseq.Metadata.txt
+shortLabel N2 riboseq rep 1 BAM
+longLabel N2 riboseq rep 1 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+
+track CYSL02_bam
+visibility squish
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL02_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL02_sort.bam.bai
+shortLabel N2 riboseq rep 2 BAM
+longLabel N2 riboseq rep 2 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+track CYSL03_bam
+visibility squish
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL03_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL03_sort.bam.bai
+shortLabel N2 riboseq rep 3 BAM
+longLabel N2 riboseq rep 3 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+track CYSL04_bam
+visibility squish
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL04_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL04_sort.bam.bai
+shortLabel Meg34 riboseq rep 1 BAM
+longLabel Meg34 riboseq rep 1 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+
+track CYSL05_bam
+visibility squish
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL05_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL05_sort.bam.bai
+shortLabel Meg34 riboseq rep 2 BAM
+longLabel Meg34 riboseq rep 2 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+track CYSL06_bam
+visibility show
+bigDataUrl http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL06_sort.bam
+bigDataIndex http://129.82.125.224:34/ChIPhubs/RIBOSEQ/ce11/bam/CYSL06_sort.bam.bai
+shortLabel Meg34 riboseq rep 3 BAM
+longLabel Meg34 riboseq rep 3 BAM
+pairEndsByName on
+showNames off
+bamColorMode off
+bamGrayMode aliQual
+indelDoubleInsert on
+indelQueryInsert on
+maxWindowToDraw 10000
+type bam 
+
+
