@@ -1,0 +1,6 @@
+hub RIBOSEQ
+shortLabel RiboSeq
+longLabel RiboSeq
+genomesFile genomes.txt
+email erinnish@colostate.edu
+descriptionUrl description/index.html
